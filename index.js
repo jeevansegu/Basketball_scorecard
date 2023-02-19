@@ -35,6 +35,8 @@ function add32() {
 function newGame() {
     score1El.textContent=0
     score2El.textContent=0
+    score1=0
+    score2=0
 }
 
 function colorchange() {
