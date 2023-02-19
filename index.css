@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'cursed_timer_ulilregular';
+    src: url('font/CursedTimerUlil-Aznm.eot');
+    src: url('font/CursedTimerUlil-Aznm.woff') format("woff"),
+    url('font/CursedTimerUlil-Aznm.otf') format("opentype"),
+    url('font/CursedTimerUlil-Aznm.svg') format("svg");
+    }
+
+body {
+    margin-top: 250px;
+    text-align: center;
+    background: #1B244A;
+}
+
+.score1 {
+    font-family: 'cursed_timer_ulilregular',Verdana;
+    font-weight:normal;
+    font-style:normal;
+    justify-content: space-around;
+    background: #080001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding: 15px;
+    padding-top: 30px;
+    border-radius: 5%;
+}
+
+.score2 {
+    font-family: 'cursed_timer_ulilregular',Verdana;
+    font-weight:normal;
+    font-style:normal;
+    justify-content: space-around;
+    background: #080001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding: 15px;
+    padding-top: 30px;
+    border-radius: 5%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+button {
+    border-color: #9AABD8;
+    border-radius: 5%;
+    background: none;
+    color: #9AABD8;
+    font-family: 'cursed_timer_ulilregular',Verdana;
+    padding: 5px;
+    padding-top: 10px;
+    width: auto;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EEEEEE;
+}
+
+.button {
+    color: #9AABD8;
+}
+
