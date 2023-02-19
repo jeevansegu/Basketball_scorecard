@@ -37,6 +37,8 @@ function newGame() {
     score2El.textContent=0
     score1=0
     score2=0
+    document.getElementById("guest").style.color="#EEEEEE"
+    document.getElementById("home").style.color="#EEEEEE"
 }
 
 function colorchange() {
